@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="16" height="16" viewBox="0 0 16 16" xml:space="preserve">
+    <desc>
+        Created with Fabric.js 5.4.0
+    </desc>
+    <defs/>
+    <rect x="0" y="0" width="100%" height="100%" fill="transparent"/>
+    <g transform="matrix(1 0 0 1 8.5 8.29)">
+        <g style="">
+            <g transform="matrix(1 0 0 1 0 0)">
+                <rect x="-7.052235709749124" y="-6.215" rx="0" ry="0" width="14.104471419498248" height="12.43" stroke="rgb(255,255,255)" stroke-opacity="0" stroke-width="1" stroke-dasharray="none" stroke-linecap="butt" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(255,255,255)" fill-opacity="0" fill-rule="nonzero" opacity="1"/>
+            </g>
+            <g transform="matrix(1 0 0 1 -3.8 -1.02)">
+                <path paint-order="stroke" transform=" translate(-4.7, -7.28)" d="M 4.69 11.39 L 4.69 11.39 Q 3.62 11.38 2.95 10.91 Q 2.28 10.45 2.06 9.67 L 2.06 9.67 Q 2.18 9.46 2.45 9.33 Q 2.72 9.2 2.96 9.23 L 2.96 9.23 Q 3.16 9.82 3.62 10.13 Q 4.08 10.44 4.74 10.42 L 4.74 10.42 Q 5.45 10.41 5.88 10.06 Q 6.31 9.7 6.31 9.08 L 6.31 9.08 Q 6.31 8.15 5.33 7.87 L 5.33 7.87 L 3.86 7.47 Q 3.09 7.25 2.65 6.71 Q 2.21 6.18 2.21 5.44 L 2.21 5.44 Q 2.21 4.78 2.55 4.26 Q 2.88 3.75 3.47 3.46 Q 4.06 3.16 4.82 3.16 L 4.82 3.16 Q 5.67 3.16 6.34 3.52 Q 7.02 3.88 7.3 4.46 L 7.3 4.46 Q 7.2 4.64 6.97 4.81 Q 6.75 4.98 6.48 5.07 L 6.48 5.07 Q 5.94 4.13 4.79 4.13 L 4.79 4.13 Q 4.11 4.13 3.68 4.48 Q 3.25 4.83 3.25 5.38 L 3.25 5.38 Q 3.25 6.26 4.38 6.57 L 4.38 6.57 L 5.68 6.93 Q 6.46 7.14 6.9 7.7 Q 7.34 8.27 7.34 9.07 L 7.34 9.07 Q 7.34 9.78 6.99 10.3 Q 6.65 10.83 6.05 11.11 Q 5.45 11.39 4.69 11.39 Z" stroke-linecap="butt" stroke="rgb(255,255,255)" stroke-width="0" stroke-dasharray="none" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(0,0,0)" fill-rule="nonzero" opacity="1"/>
+            </g>
+            <g transform="matrix(1 0 0 1 2.25 -1.02)">
+                <path paint-order="stroke" transform=" translate(-10.75, -7.28)" d="M 11 11.4 L 11 11.4 Q 9.88 11.4 9.07 10.91 Q 8.26 10.41 7.83 9.52 Q 7.41 8.63 7.41 7.43 L 7.41 7.43 Q 7.41 6.16 7.87 5.19 Q 8.34 4.23 9.18 3.69 Q 10.01 3.15 11.09 3.15 L 11.09 3.15 Q 11.95 3.15 12.66 3.5 Q 13.37 3.85 13.81 4.46 L 13.81 4.46 Q 13.75 4.66 13.53 4.87 Q 13.3 5.08 13.08 5.14 L 13.08 5.14 Q 12.69 4.63 12.18 4.39 Q 11.67 4.14 11.09 4.14 L 11.09 4.14 Q 10.31 4.14 9.72 4.55 Q 9.12 4.96 8.79 5.68 Q 8.46 6.41 8.46 7.38 L 8.46 7.38 Q 8.46 8.29 8.76 8.97 Q 9.07 9.65 9.66 10.03 Q 10.24 10.41 11.09 10.41 L 11.09 10.41 Q 11.83 10.41 12.37 10.12 Q 12.91 9.82 13.35 9.28 L 13.35 9.28 Q 13.55 9.35 13.77 9.52 Q 13.99 9.7 14.08 9.87 L 14.08 9.87 Q 13.58 10.62 12.78 11.01 Q 11.98 11.4 11 11.4 Z" stroke-linecap="butt" stroke="rgb(255,255,255)" stroke-width="0" stroke-dasharray="none" stroke-dashoffset="0" stroke-linejoin="miter" stroke-miterlimit="4" fill="rgb(0,0,0)" fill-rule="nonzero" opacity="1"/>
+            </g>
+        </g>
+    </g>
+</svg>

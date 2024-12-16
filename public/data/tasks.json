@@ -1,0 +1,192 @@
+[
+  {
+    "index": 1,
+    "code": "TASK-001",
+    "statusCode": "TODO",
+    "title": "Create project structure",
+    "description": "Setup the initial structure for the project repository.",
+    "date": "2024-12-01",
+    "assignee": null,
+    "priority": "High"
+  },
+  {
+    "index": 2,
+    "code": "TASK-002",
+    "statusCode": "IN_PROGRESS",
+    "title": "Develop user login API",
+    "description": "Build the API for user login and authentication.",
+    "date": "2024-12-02",
+    "assignee": {
+      "name": "Jane Smith",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+      "email": "janesmith@example.com"
+    },
+    "priority": "Medium"
+  },
+  {
+    "index": 3,
+    "code": "TASK-003",
+    "statusCode": "COMPLETED",
+    "title": "Design application logo",
+    "description": "Create the logo for branding.",
+    "date": "2024-11-30",
+    "assignee": {
+      "name": "John Doe",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+      "email": "johndoe@example.com"
+    },
+    "priority": "Low"
+  },
+  {
+    "index": 4,
+    "code": "TASK-004",
+    "statusCode": "TODO",
+    "title": "Set up database schema",
+    "description": "Design and implement the database schema.",
+    "date": "2024-12-03",
+    "assignee": {
+      "name": "Emily Johnson",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+      "email": "emilyjohnson@example.com"
+    },
+    "priority": "High"
+  },
+  {
+    "index": 5,
+    "code": "TASK-005",
+    "statusCode": "IN_PROGRESS",
+    "title": "Write unit tests for authentication",
+    "description": "Ensure the authentication API is covered with unit tests.",
+    "date": "2024-12-02",
+    "assignee": null,
+    "priority": "Medium"
+  },
+  {
+    "index": 6,
+    "code": "TASK-006",
+    "statusCode": "COMPLETED",
+    "title": "Fix bugs in the dashboard",
+    "description": "Resolve UI glitches in the admin dashboard.",
+    "date": "2024-11-28",
+    "assignee": {
+      "name": "Chris Evans",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+      "email": "chrisevans@example.com"
+    },
+    "priority": "Low"
+  },
+  {
+    "index": 7,
+    "code": "TASK-007",
+    "statusCode": "TODO",
+    "title": "Implement forgot password flow",
+    "description": "Develop the forgot password feature for the app.",
+    "date": "2024-12-04",
+    "assignee": {
+      "name": "Sarah Brown",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+      "email": "sarahbrown@example.com"
+    },
+    "priority": "High"
+  },
+  {
+    "index": 8,
+    "code": "TASK-008",
+    "statusCode": "IN_PROGRESS",
+    "title": "Optimize database queries",
+    "description": "Improve performance by optimizing queries.",
+    "date": "2024-12-01",
+    "assignee": {
+      "name": "James Taylor",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+      "email": "jamestaylor@example.com"
+    },
+    "priority": "Medium"
+  },
+  {
+    "index": 9,
+    "code": "TASK-009",
+    "statusCode": "COMPLETED",
+    "title": "Deploy staging environment",
+    "description": "Deploy the application to the staging environment for QA.",
+    "date": "2024-11-29",
+    "assignee": null,
+    "priority": "Low"
+  },
+  {
+    "index": 10,
+    "code": "TASK-010",
+    "statusCode": "TODO",
+    "title": "Research on OAuth2 providers",
+    "description": "Find suitable OAuth2 providers for authentication.",
+    "date": "2024-12-05",
+    "assignee": null,
+    "priority": "Medium"
+  },
+  {
+    "index": 11,
+    "code": "TASK-011",
+    "statusCode": "IN_PROGRESS",
+    "title": "Create CI/CD pipeline",
+    "description": "Set up CI/CD for automated builds and deployments.",
+    "date": "2024-12-06",
+    "assignee": {
+      "name": "Michael Lee",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+      "email": "michaellee@example.com"
+    },
+    "priority": "High"
+  },
+  {
+    "index": 12,
+    "code": "TASK-012",
+    "statusCode": "COMPLETED",
+    "title": "Document API endpoints",
+    "description": "Write detailed documentation for the API.",
+    "date": "2024-11-27",
+    "assignee": {
+      "name": "Laura Wilson",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+      "email": "laurawilson@example.com"
+    },
+    "priority": "Medium"
+  },
+  {
+    "index": 13,
+    "code": "TASK-013",
+    "statusCode": "TODO",
+    "title": "Integrate social login",
+    "description": "Add support for login via Google and Facebook.",
+    "date": "2024-12-07",
+    "assignee": null,
+    "priority": "High"
+  },
+  {
+    "index": 14,
+    "code": "TASK-014",
+    "statusCode": "IN_PROGRESS",
+    "title": "Improve frontend performance",
+    "description": "Optimize images and scripts to enhance loading time.",
+    "date": "2024-12-03",
+    "assignee": {
+      "name": "Anna Davis",
+      "avatarUrl": "https://randomuser.me/api/portraits/women/9.jpg",
+      "email": "annadavis@example.com"
+    },
+    "priority": "Medium"
+  },
+  {
+    "index": 15,
+    "code": "TASK-015",
+    "statusCode": "COMPLETED",
+    "title": "Prepare project presentation",
+    "description": "Draft a slide deck for the project review meeting.",
+    "date": "2024-11-26",
+    "assignee": {
+      "name": "David White",
+      "avatarUrl": "https://randomuser.me/api/portraits/men/10.jpg",
+      "email": "davidwhite@example.com"
+    },
+    "priority": "Low"
+  }
+]

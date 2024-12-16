@@ -1,0 +1,52 @@
+[
+  {
+    "name": "John Doe",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "johndoe@example.com"
+  },
+  {
+    "name": "Jane Smith",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+    "email": "janesmith@example.com"
+  },
+  {
+    "name": "Emily Johnson",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "emilyjohnson@example.com"
+  },
+  {
+    "name": "Chris Evans",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+    "email": "chrisevans@example.com"
+  },
+  {
+    "name": "Sarah Brown",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+    "email": "sarahbrown@example.com"
+  },
+  {
+    "name": "James Taylor",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+    "email": "jamestaylor@example.com"
+  },
+  {
+    "name": "Michael Lee",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+    "email": "michaellee@example.com"
+  },
+  {
+    "name": "Laura Wilson",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "email": "laurawilson@example.com"
+  },
+  {
+    "name": "Anna Davis",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+    "email": "annadavis@example.com"
+  },
+  {
+    "name": "David White",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+    "email": "davidwhite@example.com"
+  }
+]

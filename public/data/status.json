@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Todo",
+    "code": "TODO"
+  },
+  {
+    "id": 2,
+    "name": "In Progress",
+    "code": "IN_PROGRESS"
+  },
+  {
+    "id": 3,
+    "name": "Completed",
+    "code": "COMPLETED"
+  }
+]

@@ -1,0 +1,17 @@
+.custom-select[role="combobox"] {
+  border: none;
+  box-shadow: none;
+  width: auto;
+}
+.custom-select > svg {
+  display: none;
+}
+
+.custom-select-priority[role="combobox"] {
+  border: dashed 1px #efefef;
+  box-shadow: none;
+  width: auto;
+}
+.custom-select-priority > svg {
+  display: none;
+}
